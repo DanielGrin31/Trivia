@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RpTJXpo0OL+LF8yPmEyI6RZ2W41ICsmYBtoZ0L4v9w/ZdxRsr6ykz8B5so+9R5E1e34t0vGGi0Dxz2Rypu6PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grinb\\source\\repos\\TriviaCsharpVer\\TriviaTestClient\\TriviaTestClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grinb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\grinb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

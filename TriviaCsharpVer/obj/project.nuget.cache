@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PK4ksph0XxPcMYUSS9hK7nYhT3bkmW5jILyht5S2HNbTbepSkQYDVloWC6Zuwspin0pLyZWluqSjoFTnYTg8qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grinb\\source\\repos\\TriviaCsharpVer\\TriviaCsharpVer\\TriviaServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grinb\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\grinb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\grinb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
